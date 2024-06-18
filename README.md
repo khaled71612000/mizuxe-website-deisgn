@@ -8,3 +8,6 @@
 - **Responsive Design:** Adapts to different screen sizes.
 - **Modern Layout:** Clean and professional look.
 - **SCSS:** Utilizes SCSS for more efficient and organized styling.
+
+
+![image](https://github.com/khaled71612000/mizuxe-website-deisgn/assets/59780800/2baa8127-6448-4fc3-8a6e-cac17e5bec24)
